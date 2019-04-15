@@ -45,9 +45,11 @@ For each query of type *3* print the entrance fee of the planet in a new line.
 
 ### Sample Output 0
 
+```
 20
 40
 15
+```
 
 ### Sample Input 1
 
